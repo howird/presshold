@@ -12,3 +12,6 @@ presshold-*.tar.gz
 # AUR package build files
 aur-presshold/
 aur-presshold
+# Nix
+result
+result-*
